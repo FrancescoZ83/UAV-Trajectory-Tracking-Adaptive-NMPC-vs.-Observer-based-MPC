@@ -2,6 +2,8 @@
 
 This project presents a comparative study of two advanced control strategies for a quadrotor UAV: **Nonlinear Model Predictive Control (NMPC) with $\mathcal{L}_1$ Adaptation** and **Offset-Free NMPC with a Disturbance Observer**. 
 
+The goal was to evaluate their performance in trajectory tracking when facing different real-world challenges, such as unknown payloads and external environmental disturbances.
+
 ---
 
 ### 📖 Technical Report
@@ -10,8 +12,6 @@ This project presents a comparative study of two advanced control strategies for
 👉 **[READ THE FULL REPORT (PDF)](docs/ICO_Report.pdf)** 👈
 
 ---
-
-The goal was to evaluate their performance in trajectory tracking when facing different real-world challenges, such as unknown payloads and external environmental disturbances.
 
 ## 📌 Project Overview
 Controlling UAVs is complex due to their non-linear dynamics and aerodynamic effects. While standard NMPC provides flexibility in handling constraints, it lacks inherent robustness to model uncertainties or persistent disturbances. This project implements and compares two solutions:
