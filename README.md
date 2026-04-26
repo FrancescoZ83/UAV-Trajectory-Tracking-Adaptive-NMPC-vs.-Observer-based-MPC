@@ -9,7 +9,7 @@ The goal was to evaluate their performance in trajectory tracking when facing di
 ### 📖 Technical Report
 **The core of this research is detailed in the full technical report.** It contains the mathematical modeling, the controller design logic, and a deep dive into the simulation results.
 
-👉 **[READ THE FULL REPORT (PDF)](docs/ICO_Report.pdf)** 👈
+👉 **[READ THE FULL REPORT (PDF)](docs/Report.pdf)** 👈
 
 ---
 
